@@ -1,0 +1,44 @@
+<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description dc:date="2019-12-16 01:05:08 下午" dc:source="Camtasia,18.0.1,deu" dc:title="爱采集入门教程" tscDM:firstFrame="爱采集入门教程_First_Frame.png" tscDM:originId="296ACE46-FFFD-4422-9C70-CCFD54634B9B" tscDM:project="爱采集入门教程">
+         <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="83633"/>
+         <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="668" stDim:w="1096"/>
+         <tsc:langName>
+            <rdf:Bag>
+               <rdf:li xml:lang="en-US">English</rdf:li></rdf:Bag>
+         </tsc:langName>
+         <xmpDM:Tracks>
+            <rdf:Bag>
+               <rdf:li>
+                  <rdf:Description xmpDM:trackType="ScreenText" xmpDM:frameRate="f1000" xmpDM:trackName="Screen Text">
+                     <xmpDM:markers>
+                        <rdf:Seq>
+                           <rdf:li><rdf:Description xmpDM:name="创建项目" xmpDM:startTime="2500" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="配置采集规则" xmpDM:startTime="10300" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="点击提取详情页网址，在网页上点击链接，2个" xmpDM:startTime="12800" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="按需要采集其他字段" xmpDM:startTime="15467" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="可以对数据进行处理，这里演示删除头尾多余的" xmpDM:startTime="18200" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="括号" xmpDM:startTime="18200" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="如果要采集详情页，点这里" xmpDM:startTime="34600" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="类似的方法采集详情页的字段" xmpDM:startTime="41133" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="点击运行就可以开始采集数据了" xmpDM:startTime="59667" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="静待数据采集完毕，可以去喝杯咖啡，等待时间" xmpDM:startTime="63667" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="根据采集的数据量有所不同" xmpDM:startTime="63667" xmpDM:duration="1000"/></rdf:li><rdf:li><rdf:Description xmpDM:name="可以发布新鲜热辣的数据了" xmpDM:startTime="72600" xmpDM:duration="1000"/></rdf:li></rdf:Seq>
+                     </xmpDM:markers>
+                  </rdf:Description>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpDM:Tracks>
+         <tscDM:controller>
+            <rdf:Description xmpDM:name="tscplayer">
+               <tscDM:parameters>
+                  <rdf:Bag>
+                     <rdf:li xmpDM:name="autohide" xmpDM:value="true"/><rdf:li xmpDM:name="autoplay" xmpDM:value="false"/><rdf:li xmpDM:name="loop" xmpDM:value="false"/><rdf:li xmpDM:name="searchable" xmpDM:value="true"/><rdf:li xmpDM:name="captionsenabled" xmpDM:value="false"/><rdf:li xmpDM:name="sidebarenabled" xmpDM:value="false"/><rdf:li xmpDM:name="unicodeenabled" xmpDM:value="true"/><rdf:li xmpDM:name="backgroundcolor" xmpDM:value="000000"/><rdf:li xmpDM:name="sidebarlocation" xmpDM:value="left"/><rdf:li xmpDM:name="endaction" xmpDM:value="stop"/><rdf:li xmpDM:name="endactionparam" xmpDM:value="true"/><rdf:li xmpDM:name="locale" xmpDM:value="en-US"/></rdf:Bag>
+               </tscDM:parameters>
+               <tscDM:controllerText>
+                  <rdf:Bag>
+                  </rdf:Bag>
+               </tscDM:controllerText>
+            </rdf:Description>
+         </tscDM:controller>
+         <tscDM:contentList>
+            <rdf:Description>
+               <tscDM:files>
+                  <rdf:Seq>
+                     <rdf:li xmpDM:name="0" xmpDM:value="爱采集入门教程.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="爱采集入门教程_First_Frame.png"/></rdf:Seq>
+               </tscDM:files>
+            </rdf:Description>
+         </tscDM:contentList>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
