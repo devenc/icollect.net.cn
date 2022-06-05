@@ -1,0 +1,3 @@
+[submodule "pat-pingantradition.com.cn"]
+	path = pat-pingantradition.com.cn
+	url = git@gitee.com:devenc/pat-pingantradition.com.cn.git
